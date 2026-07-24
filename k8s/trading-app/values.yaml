@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: 519361062262.dkr.ecr.us-east-2.amazonaws.com/trade-repo
-  tag: latest
+  tag: latest-v2
   pullPolicy: Always
 
 service:
